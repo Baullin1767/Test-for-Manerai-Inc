@@ -109,6 +109,8 @@
 Материалы, входящие в Unity (TextMeshPro/EmojiOne и т. п.), используются по их базовым лицензиям. SFX/ассеты в папке `Assets/Audio`/`Assets/Prefabs` — для прототипа. При публичном распространении проверьте/уточните права на сторонние ресурсы.
 
 ## Пример геймплея
-https://github.com/user-attachments/assets/ca5f6e3f-ba70-4c21-a52f-eaef6fd04856
+https://github.com/user-attachments/assets/e3e36528-f85d-4652-85b6-29f74aee487f
+
+
 
 
